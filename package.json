@@ -1,0 +1,15 @@
+{
+  "name": "badminton",
+  "version": "1.0.0",
+  "description": "tws homework",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yu",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.18.1"
+  }
+}
